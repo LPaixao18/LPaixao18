@@ -1,5 +1,6 @@
 ## Iaii! Me chamo Lara Paixão
 
+### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
 </a>
@@ -10,7 +11,7 @@
 - 🔭 Hoje trabalho com Desenvolvimento Front-End
 - 🌱 Estudando JavaScript
 
-  
+### My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,6 +22,7 @@
 
   ##
 
+### Conections
 <div> 
   <a href="https://instagram.com/lpaixao_69" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/paixao2703" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
